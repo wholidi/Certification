@@ -4,6 +4,7 @@
   - ChatGPT Prompt Engineering 
   - Practical Data Science on the AWS Cloud Specialization
   - SAP Generative Artificial Intelligence / AI Ethics
+  - Introduction of AI System Audit 
 ## 2023	
   - AWS Cloud Practitioner & Technical Essentials
   -	Career Essentials in Generative Artificial Intelligence
