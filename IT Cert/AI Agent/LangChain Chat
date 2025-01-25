@@ -1,0 +1,6 @@
+Happy to share that I have completed "LangChain Chat with your Data" 
+@Harrison Chase and @Andrew Ng thank you for the great course 
+Case:
+Everyday we need to read - understand - write many document, conventioallty we will need to do it manualy. It looks simple but if we add multiple language, unstructure document, hundreds of package which definitely not fun.  What if we can discuss with AI agent and get the point before dive deeper into the topic? 
+Solutions:
+LangChain provide data uploader and retrieval to build AI Agent that we can discuss deeper according to our prompt and input data
