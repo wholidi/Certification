@@ -1,0 +1,6 @@
+Happy to share that I have completed "Function Tools and Agents with LangChain" 
+@Harrison Chase and @Andrew Ng thank you for the great course 
+Case:
+Everyone is using chatgpt daily and it is continuosly updated with any question asked into it. How about the idea of customizing it for our requirement? Here is where LangChain come into picture. it enable us to choose which function inside chatgpt engine (LLM) to build a tools and finally create an AI agent to assist us with our task, example: data extraction
+Solutions:
+With LangChain Expression Language (LCEL) we can customized function to build AI agents to perform our task 
